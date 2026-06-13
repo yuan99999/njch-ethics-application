@@ -1,0 +1,4 @@
+interface:
+  display_name: "南京儿童医院伦理申请"
+  short_description: "南京儿童医院伦理申请材料、免知情同意与提交前审查助手"
+  default_prompt: "Use $njch-ethics-application to prepare a 南京儿童医院 retrospective ethics submission package."
